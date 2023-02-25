@@ -1,0 +1,78 @@
+body{
+    margin-left: 94px;
+    margin-top: 55px;
+
+    }
+
+    h1{
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 42px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+   
+    color: #000000;
+    }
+
+    h2{
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+    }
+
+    .form-group{
+    display: flex;
+    flex-direction: column;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    }
+
+    body input{
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 40;
+    font-size: 20px;
+    line-height: 38px;
+    align-items: center;
+    text-align: center;
+
+    color: black;
+    width: 566px;
+    height: 35px;
+    left: 94px;
+    top: 386px;
+    }
+
+    form label{
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 38px;
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+    }
+
+    input[type="submit"]{
+    cursor: pointer;
+    text-align: center;
+    width: 214px;
+    height: 35px;
+    left: 97px;
+    top: 601px;
+    }
+
+
+
+   
